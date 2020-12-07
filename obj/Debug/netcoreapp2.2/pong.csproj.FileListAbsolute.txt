@@ -1,0 +1,12 @@
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.csprojAssemblyReference.cache
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.AssemblyInfoInputs.cache
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.AssemblyInfo.cs
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.csproj.CoreCompileInputs.cache
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/bin/Debug/netcoreapp2.2/pong.deps.json
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/bin/Debug/netcoreapp2.2/pong.runtimeconfig.json
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/bin/Debug/netcoreapp2.2/pong.runtimeconfig.dev.json
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/bin/Debug/netcoreapp2.2/pong.dll
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/bin/Debug/netcoreapp2.2/pong.pdb
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.dll
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.pdb
+/Users/svealwade/Desktop/epicodus/C#/ping_pong/obj/Debug/netcoreapp2.2/pong.genruntimeconfig.cache
